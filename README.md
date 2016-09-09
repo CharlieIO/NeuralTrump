@@ -17,5 +17,7 @@ All requirements for both [word-rnn](https://github.com/larspars/word-rnn) and [
 ## Credits
 
 [CharlieIO](https://github.com/CharlieIO) - Primary developer
+
 [Karpathy](https://github.com/karpathy) - Developer of Char-RNN
+
 [Larspars](https://github.com/larspars) - Developer of Word-RNN
